@@ -1,0 +1,10 @@
+name: DDGKitpvp
+version: ${project.version}
+main: com.github.tacticaldevmc.ddgkitpvp.DDGKitpvp
+api-version: 1.13
+authors: [ TacticalDev ]
+description: De DDG KitPvP plugin.
+commands:
+  leave:
+  join:
+  spawns:
